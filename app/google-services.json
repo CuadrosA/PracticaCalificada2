@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "453282861107",
+    "project_id": "clase---pregrado---1",
+    "storage_bucket": "clase---pregrado---1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453282861107:android:15ab0a9e43b9bd6028d346",
+        "android_client_info": {
+          "package_name": "dev.axel.firebase_semana9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASLlRqAySyLblILVfu-a_rQg0OZ4euwrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453282861107:android:8a41deb2c7a7227228d346",
+        "android_client_info": {
+          "package_name": "dev.axel.pc2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASLlRqAySyLblILVfu-a_rQg0OZ4euwrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453282861107:android:239ccc0b191b24c028d346",
+        "android_client_info": {
+          "package_name": "dev.axel.practicacalificada2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASLlRqAySyLblILVfu-a_rQg0OZ4euwrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
